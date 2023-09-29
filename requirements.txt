@@ -1,0 +1,7 @@
+openai
+numpy
+tika
+sentence_splitter
+tiktoken
+uuid
+flask

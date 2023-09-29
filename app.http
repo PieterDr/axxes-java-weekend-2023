@@ -1,0 +1,5 @@
+POST http://localhost:5000/context
+Accept: application/json
+Content-Type: application/json
+
+{"query":  "Moet ik mijn laadpaal terugbetalen wanneer ik ontslag neem bij Axxes?"}
